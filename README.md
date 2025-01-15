@@ -2,7 +2,7 @@
 
 Link to GitHub Pages Website
 
-[https://gcurtis95.github.io/Online-Immersive-Audiovisual-Club-Space/]
+https://gcurtis95.github.io/Online-Immersive-Audiovisual-Club-Space/
 
 Link to GitHub Repository
 
