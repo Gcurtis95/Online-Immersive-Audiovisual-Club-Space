@@ -2,7 +2,7 @@
 
 Link to GitHub Pages Website
 
-https://git.arts.ac.uk/pages/23026867/Garin_Curtis_23026867_Coding_2_Final_Submission/
+[https://gcurtis95.github.io/Online-Immersive-Audiovisual-Club-Space/]
 
 Link to GitHub Repository
 
